@@ -1,0 +1,21 @@
+[[source]]
+url = "https://mirrors.aliyun.com/pypi/simple"
+verify_ssl = true
+name = "pypi"
+
+[dev-packages]
+watchdog = "*"
+
+[packages]
+requests = "*"
+pybloom_live = "*"
+elasticsearch_dsl = "*"
+beautifulsoup4="*"
+w3lib="*"
+lxml="*"
+flask = "*"
+flask_bootstrap = "*"
+flask_moment ="*"
+elasticsearch="*"
+redis="*"
+Bootstrap-Flask ="*"

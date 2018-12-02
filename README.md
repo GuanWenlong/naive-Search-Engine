@@ -1,5 +1,5 @@
 # naive-Search-Engine （一个幼稚的搜索引擎）
-A naive Search Engine based on ElasticSearch, the spider part is based on the work [PSpider](https://github.com/anuragranj/spynet.). The web part is based on the Flask framework.
+A naive Search Engine based on Python and ElasticSearch, the spider part is based on the work [PSpider](https://github.com/anuragranj/spynet.). The web part is based on the Flask framework.
 
 ##Usage
 1. Install the required package through pipenv.

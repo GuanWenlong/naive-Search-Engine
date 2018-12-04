@@ -14,15 +14,22 @@ import re
 black_patterns = (spider.CONFIG_URL_ILLEGAL_PATTERN, r"binding", r"download", )
 white_patterns = ()
 
-def url_parse(baseurl,html_doc,keys,priority):
+def url_parse(baseurl,html_doc,keys,priority,deep,MAX_DEEP):
     url_list=[]
     soup = BeautifulSoup(html_doc, 'lxml')
-    post_nodes = soup.select('#archive .floated-thumb .post-thumb a')
-    next_node = soup.select('.next.page-numbers')
-    if(len(post_nodes)!=0 and len(next_node)!=0):
-        for node in post_nodes:
-            url_list.append((spider.get_url_legal(node['href'],baseurl),keys,priority+1))
-        url_list.append((spider.get_url_legal(next_node[0]['href'], baseurl),keys,priority+1))
+    if(deep==0):
+        post_nodes = soup.select('#archive .floated-thumb .post-thumb a')
+        if(len(post_nodes)!=0):
+            for node in post_nodes:
+                url_list.append((spider.get_url_legal(node['href'],baseurl),keys,priority+1))
+    elif deep<MAX_DEEP:
+        related_nodes=soup.select('.digg-item-updated-title a')
+        if (len(related_nodes) != 0):
+            for node in related_nodes:
+                if('/#comments' in node['href']):
+                    print(node['href'])
+                url_list.append((spider.get_url_legal(node['href'], baseurl), keys, priority + 1))
+
     return url_list
 def decodeHtml(url,html_doc):
     content={}
@@ -59,14 +66,16 @@ class MyParser(spider.Parser):
     """
     def htm_parse(self, priority: int, url: str, keys: dict, deep: int, content: object):
         status_code, url_now, html_text = content
-        url_list= url_parse(url_now,html_text,keys,priority)
+        url_list= url_parse(url_now,html_text,keys,priority,deep,self._max_deep)
 
         title = re.search(r"<title>(?P<title>.+?)</title>", html_text, flags=re.IGNORECASE)
-        save_list = [(url, title.group("title").strip(), datetime.datetime.now()), ] if title else []
 
         content_dict=decodeHtml(url,html_text)
         if content_dict==None:
             content_dict={}
+            save_list=[]
+        else:
+            save_list = [(url, content_dict['title'], datetime.datetime.now()," deep:{}".format(deep))] if title else []
         return 1, url_list, save_list,content_dict
 
 

@@ -5,7 +5,6 @@ import logging
 import datetime
 import requests
 from bs4 import BeautifulSoup
-import re
 
 black_patterns = (spider.CONFIG_URL_ILLEGAL_PATTERN, r"binding", r"download", )
 white_patterns = ()
@@ -14,8 +13,6 @@ def url_parse(baseurl,html_doc,keys,priority,deep,MAX_DEEP):
     url_list=[]
     soup = BeautifulSoup(html_doc, 'lxml')
     if(deep==0):
-        # for i in range(2):
-
         post_nodes = soup.select('#archive .floated-thumb .post-thumb a')
         if(len(post_nodes)!=0):
             for node in post_nodes:

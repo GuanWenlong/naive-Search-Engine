@@ -14,6 +14,8 @@ def url_parse(baseurl,html_doc,keys,priority,deep,MAX_DEEP):
     url_list=[]
     soup = BeautifulSoup(html_doc, 'lxml')
     if(deep==0):
+        # for i in range(2):
+
         post_nodes = soup.select('#archive .floated-thumb .post-thumb a')
         if(len(post_nodes)!=0):
             for node in post_nodes:
@@ -23,7 +25,7 @@ def url_parse(baseurl,html_doc,keys,priority,deep,MAX_DEEP):
         if (len(related_nodes) != 0):
             for node in related_nodes:
                 if('/#comments' in node['href']):
-                    print(node['href'])
+                    continue
                 url_list.append((spider.get_url_legal(node['href'], baseurl), keys, priority + 1))
 
     return url_list
@@ -64,14 +66,13 @@ class MyParser(spider.Parser):
         status_code, url_now, html_text = content
         url_list= url_parse(url_now,html_text,keys,priority,deep,self._max_deep)
 
-        title = re.search(r"<title>(?P<title>.+?)</title>", html_text, flags=re.IGNORECASE)
 
         content_dict=decodeHtml(url,html_text)
         if content_dict==None:
             content_dict={}
             save_list=[]
         else:
-            save_list = [(url, content_dict['title'], datetime.datetime.now()," deep:{}".format(deep))] if title else []
+            save_list = [(url, content_dict['title'], datetime.datetime.now()," deep:{}".format(deep))]
         return 1, url_list, save_list,content_dict
 
 

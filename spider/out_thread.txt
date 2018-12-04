@@ -1,37 +1,122 @@
-http://blog.jobbole.com/all-posts/	None	2018-12-04 08:55:15.913270	 deep:0
-http://blog.jobbole.com/114523/	网络应用优化——时延与带宽	2018-12-04 08:55:16.170832	 deep:1
-http://blog.jobbole.com/114528/	在 Linux 上自定义 bash 命令提示符	2018-12-04 08:55:16.275691	 deep:1
-http://blog.jobbole.com/114503/	5 个适合系统管理员使用的告警可视化工具	2018-12-04 08:55:16.324944	 deep:1
-http://blog.jobbole.com/114466/	人人都能读懂的编译器原理	2018-12-04 08:55:16.474716	 deep:1
-http://blog.jobbole.com/114473/	2018 年最好的 Linux 发行版	2018-12-04 08:55:16.697374	 deep:1
-http://blog.jobbole.com/114490/	awk 入门教程	2018-12-04 08:55:17.368456	 deep:1
-http://blog.jobbole.com/114499/	程序员神器 StackOverflow 10 岁了，它长大后想成为什么？	2018-12-04 08:55:17.428847	 deep:1
-http://blog.jobbole.com/114505/	在 Linux 命令行中使用 tcpdump 抓包	2018-12-04 08:55:17.798460	 deep:1
-http://blog.jobbole.com/114496/	软件工程师生存指南：面试准备、工作经验和实用工具	2018-12-04 08:55:17.857962	 deep:1
-http://blog.jobbole.com/114493/	Python 数据科学入门	2018-12-04 08:55:17.955866	 deep:1
-http://blog.jobbole.com/114488/	反对薪酬保密，一程序员公开了硅谷秘密	2018-12-04 08:55:18.007853	 deep:1
-http://blog.jobbole.com/114485/	Ubuntu 上更改 MySQL 数据库数据存储目录	2018-12-04 08:55:18.083821	 deep:1
-http://blog.jobbole.com/114482/	SQL优化指南	2018-12-04 08:55:18.166379	 deep:1
-http://blog.jobbole.com/114479/	MySQL 更改数据库数据存储目录	2018-12-04 08:55:18.240879	 deep:1
-http://blog.jobbole.com/114461/	一文带你了解 Vim 的起源	2018-12-04 08:55:18.335063	 deep:1
-http://blog.jobbole.com/114458/	命令行小技巧：读取文件的不同方式	2018-12-04 08:55:18.398658	 deep:1
-http://blog.jobbole.com/114442/	通过信鸽来解释 HTTPS	2018-12-04 08:55:18.451977	 deep:1
-http://blog.jobbole.com/114505/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	在 Linux 命令行中使用 tcpdump 抓包	2018-12-04 08:55:18.806430	 deep:2
-http://blog.jobbole.com/114455/	如何在 Linux 中找到并删除重复文件	2018-12-04 08:55:18.974373	 deep:1
-http://blog.jobbole.com/114447/	Linux 系统上交换空间的介绍	2018-12-04 08:55:19.090710	 deep:1
-http://blog.jobbole.com/114445/	Redis基础、高级特性与性能调优	2018-12-04 08:55:19.227860	 deep:1
-http://blog.jobbole.com/114505/#comments	在 Linux 命令行中使用 tcpdump 抓包	2018-12-04 08:55:19.585209	 deep:2
-http://blog.jobbole.com/114503/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	5 个适合系统管理员使用的告警可视化工具	2018-12-04 08:55:19.639885	 deep:2
-http://blog.jobbole.com/114490/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	awk 入门教程	2018-12-04 08:55:19.727632	 deep:2
-http://blog.jobbole.com/114473/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	2018 年最好的 Linux 发行版	2018-12-04 08:55:19.806389	 deep:2
-http://blog.jobbole.com/114473/#comments	2018 年最好的 Linux 发行版	2018-12-04 08:55:19.858618	 deep:2
-http://blog.jobbole.com/114458/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	命令行小技巧：读取文件的不同方式	2018-12-04 08:55:19.917355	 deep:2
-http://blog.jobbole.com/114458/#comments	命令行小技巧：读取文件的不同方式	2018-12-04 08:55:19.977010	 deep:2
-http://blog.jobbole.com/114528/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	在 Linux 上自定义 bash 命令提示符	2018-12-04 08:55:20.064164	 deep:2
-http://blog.jobbole.com/108792/#comments	词法分析器的实现	2018-12-04 08:55:20.210178	 deep:2
-http://blog.jobbole.com/108792/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	词法分析器的实现	2018-12-04 08:55:20.316420	 deep:2
-http://blog.jobbole.com/108791/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	从 Hello World 说程序运行机制	2018-12-04 08:55:20.377492	 deep:2
-http://blog.jobbole.com/97441/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	手把手教你做一个 C 语言编译器（9）：总结	2018-12-04 08:55:21.403777	 deep:2
-http://blog.jobbole.com/97441/#comments	手把手教你做一个 C 语言编译器（9）：总结	2018-12-04 08:55:21.462182	 deep:2
-http://blog.jobbole.com/97415/#comments	手把手教你做一个 C 语言编译器（8）：表达式	2018-12-04 08:55:21.947259	 deep:2
-http://blog.jobbole.com/97411/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	手把手教你做一个 C 语言编译器（7）：语句	2018-12-04 08:55:22.191251	 deep:2
+http://blog.jobbole.com/all-posts/	None	2018-12-04 10:02:29.374161	 deep:0
+http://blog.jobbole.com/114523/	网络应用优化——时延与带宽	2018-12-04 10:02:29.965561	 deep:1
+http://blog.jobbole.com/114493/	Python 数据科学入门	2018-12-04 10:02:30.074498	 deep:1
+http://blog.jobbole.com/114499/	程序员神器 StackOverflow 10 岁了，它长大后想成为什么？	2018-12-04 10:02:30.131365	 deep:1
+http://blog.jobbole.com/114505/	在 Linux 命令行中使用 tcpdump 抓包	2018-12-04 10:02:30.710991	 deep:1
+http://blog.jobbole.com/114503/	5 个适合系统管理员使用的告警可视化工具	2018-12-04 10:02:30.807916	 deep:1
+http://blog.jobbole.com/114488/	反对薪酬保密，一程序员公开了硅谷秘密	2018-12-04 10:02:30.923734	 deep:1
+http://blog.jobbole.com/114528/	在 Linux 上自定义 bash 命令提示符	2018-12-04 10:02:31.158516	 deep:1
+http://blog.jobbole.com/114496/	软件工程师生存指南：面试准备、工作经验和实用工具	2018-12-04 10:02:31.252184	 deep:1
+http://blog.jobbole.com/114490/	awk 入门教程	2018-12-04 10:02:31.403221	 deep:1
+http://blog.jobbole.com/114485/	Ubuntu 上更改 MySQL 数据库数据存储目录	2018-12-04 10:02:31.539736	 deep:1
+http://blog.jobbole.com/114479/	MySQL 更改数据库数据存储目录	2018-12-04 10:02:31.711113	 deep:1
+http://blog.jobbole.com/114466/	人人都能读懂的编译器原理	2018-12-04 10:02:31.810876	 deep:1
+http://blog.jobbole.com/114473/	2018 年最好的 Linux 发行版	2018-12-04 10:02:31.888386	 deep:1
+http://blog.jobbole.com/114458/	命令行小技巧：读取文件的不同方式	2018-12-04 10:02:31.977181	 deep:1
+http://blog.jobbole.com/114447/	Linux 系统上交换空间的介绍	2018-12-04 10:02:32.152949	 deep:1
+http://blog.jobbole.com/114482/	SQL优化指南	2018-12-04 10:02:32.246934	 deep:1
+http://blog.jobbole.com/114461/	一文带你了解 Vim 的起源	2018-12-04 10:02:32.340934	 deep:1
+http://blog.jobbole.com/114455/	如何在 Linux 中找到并删除重复文件	2018-12-04 10:02:32.573732	 deep:1
+http://blog.jobbole.com/114442/	通过信鸽来解释 HTTPS	2018-12-04 10:02:32.684085	 deep:1
+http://blog.jobbole.com/108466/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	数据科学家和机器学习工程师有什么不同	2018-12-04 10:02:32.759233	 deep:2
+http://blog.jobbole.com/97232/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	关于数据科学家，我们应该知道的这些事	2018-12-04 10:02:32.819525	 deep:2
+http://blog.jobbole.com/92473/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	数据科学中的 Spark 入门	2018-12-04 10:02:32.946609	 deep:2
+http://blog.jobbole.com/54308/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	七个用于数据科学(data science)的命令行工具	2018-12-04 10:02:33.138466	 deep:2
+http://blog.jobbole.com/114445/	Redis基础、高级特性与性能调优	2018-12-04 10:02:33.269570	 deep:1
+http://blog.jobbole.com/100622/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	十步制胜 Kaggle 数据科学竞赛	2018-12-04 10:02:33.370491	 deep:2
+http://blog.jobbole.com/114166/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	如何成为 StackOverflow 上合格的提问者与回答者	2018-12-04 10:02:33.429601	 deep:2
+http://blog.jobbole.com/110437/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	Stack Overflow 与全民编程时代	2018-12-04 10:02:33.491951	 deep:2
+http://blog.jobbole.com/110433/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	在 Stack Overflow 远程办公是怎样一种体验？	2018-12-04 10:02:33.584248	 deep:2
+http://blog.jobbole.com/102810/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	为什么离不开 Stackoverflow？	2018-12-04 10:02:33.668613	 deep:2
+http://blog.jobbole.com/101980/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	玩转 Stack Overflow 之提问篇	2018-12-04 10:02:33.741673	 deep:2
+http://blog.jobbole.com/114490/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	awk 入门教程	2018-12-04 10:02:33.928664	 deep:2
+http://blog.jobbole.com/114528/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	在 Linux 上自定义 bash 命令提示符	2018-12-04 10:02:34.111667	 deep:2
+http://blog.jobbole.com/114503/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	5 个适合系统管理员使用的告警可视化工具	2018-12-04 10:02:34.193307	 deep:2
+http://blog.jobbole.com/114473/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	2018 年最好的 Linux 发行版	2018-12-04 10:02:34.274120	 deep:2
+http://blog.jobbole.com/114458/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	命令行小技巧：读取文件的不同方式	2018-12-04 10:02:34.386897	 deep:2
+http://blog.jobbole.com/114505/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	在 Linux 命令行中使用 tcpdump 抓包	2018-12-04 10:02:34.802424	 deep:2
+http://blog.jobbole.com/112376/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	我们逃离北上广，美国人逃离硅谷	2018-12-04 10:02:34.901251	 deep:2
+http://blog.jobbole.com/100770/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	什么东西在吞噬着硅谷？	2018-12-04 10:02:34.964328	 deep:2
+http://blog.jobbole.com/90343/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	2014-2015 工程师薪酬分析：Java 不是过去式	2018-12-04 10:02:35.055190	 deep:2
+http://blog.jobbole.com/105282/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	我加入一家硅谷骗子创业公司的奇葩经历	2018-12-04 10:02:35.121926	 deep:2
+http://blog.jobbole.com/80512/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	一张图看懂硅谷科技公司的男女比例	2018-12-04 10:02:35.180289	 deep:2
+http://blog.jobbole.com/114356/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	程序员找工作面试会遇到哪些坑	2018-12-04 10:02:35.239165	 deep:2
+http://blog.jobbole.com/114168/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	2 年面试 900 多位工程师后，我总结了这些经验	2018-12-04 10:02:35.307452	 deep:2
+http://blog.jobbole.com/113217/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	技术面试中的精英主义	2018-12-04 10:02:35.394322	 deep:2
+http://blog.jobbole.com/112585/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	写代码容易，编程并不容易	2018-12-04 10:02:35.494271	 deep:2
+http://blog.jobbole.com/114437/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	选择 NoSQL 数据库需要考虑的 10 个问题	2018-12-04 10:02:35.551060	 deep:2
+http://blog.jobbole.com/114331/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	受 SQLite 多年青睐，C 语言到底好在哪儿？	2018-12-04 10:02:35.602875	 deep:2
+http://blog.jobbole.com/114273/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	MySQL多版本并发控制机制(MVCC)-源码浅析	2018-12-04 10:02:35.766463	 deep:2
+http://blog.jobbole.com/114485/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	Ubuntu 上更改 MySQL 数据库数据存储目录	2018-12-04 10:02:35.890127	 deep:2
+http://blog.jobbole.com/113120/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	我问每个面试官的两个问题，把工程流程用到软件面试	2018-12-04 10:02:35.951087	 deep:2
+http://blog.jobbole.com/114407/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	Redis 避不开的五种数据结构	2018-12-04 10:02:36.180940	 deep:2
+http://blog.jobbole.com/108791/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	从 Hello World 说程序运行机制	2018-12-04 10:02:36.291270	 deep:2
+http://blog.jobbole.com/114479/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	MySQL 更改数据库数据存储目录	2018-12-04 10:02:36.392407	 deep:2
+http://blog.jobbole.com/97441/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	手把手教你做一个 C 语言编译器（9）：总结	2018-12-04 10:02:36.452310	 deep:2
+http://blog.jobbole.com/97415/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	手把手教你做一个 C 语言编译器（8）：表达式	2018-12-04 10:02:37.049396	 deep:2
+http://blog.jobbole.com/109551/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	写出易调试的 SQL	2018-12-04 10:02:37.144439	 deep:2
+http://blog.jobbole.com/111807/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	如何最有效的编写SQL	2018-12-04 10:02:37.282610	 deep:2
+http://blog.jobbole.com/114402/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	增强 Vim 编辑器，提高编辑效率	2018-12-04 10:02:37.387960	 deep:2
+http://blog.jobbole.com/97411/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	手把手教你做一个 C 语言编译器（7）：语句	2018-12-04 10:02:37.480673	 deep:2
+http://blog.jobbole.com/113649/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	使用 Vi/Vim 编辑器：基础篇	2018-12-04 10:02:37.539423	 deep:2
+http://blog.jobbole.com/107256/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	一个20秒SQL慢查询优化的经历与处理方案	2018-12-04 10:02:37.664952	 deep:2
+http://blog.jobbole.com/114334/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	Vim 代码片段插件 Ultisnips 使用教程	2018-12-04 10:02:37.815829	 deep:2
+http://blog.jobbole.com/110354/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	也许，这样理解HTTPS更容易	2018-12-04 10:02:38.234055	 deep:2
+http://blog.jobbole.com/106792/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	HTTPS 协议降级攻击原理	2018-12-04 10:02:38.354567	 deep:2
+http://blog.jobbole.com/113883/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	用信鸽来解释 HTTPS	2018-12-04 10:02:38.607734	 deep:2
+http://blog.jobbole.com/110626/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	为什么说 LINQ 要胜过 SQL	2018-12-04 10:02:38.731125	 deep:2
+http://blog.jobbole.com/110373/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	HTTPS 为什么更安全，先看这些	2018-12-04 10:02:39.003309	 deep:2
+http://blog.jobbole.com/114132/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	Vim-plug：极简 Vim 插件管理器	2018-12-04 10:02:39.078975	 deep:2
+http://blog.jobbole.com/114493/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	Python 数据科学入门	2018-12-04 10:02:39.255911	 deep:3
+http://blog.jobbole.com/107930/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	HTTPS中的加密算法相关概念	2018-12-04 10:02:39.372528	 deep:2
+http://blog.jobbole.com/108792/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	词法分析器的实现	2018-12-04 10:02:40.485576	 deep:2
+http://blog.jobbole.com/114397/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	Redis 的 KEYS 命令引起 RDS 数据库雪崩，宕机 2 次，造成几百万损失	2018-12-04 10:02:40.914227	 deep:2
+http://blog.jobbole.com/108831/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	优化SQL查询：如何写出高性能SQL语句	2018-12-04 10:02:41.415083	 deep:2
+http://blog.jobbole.com/112222/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	从分布式计算到分布式训练	2018-12-04 10:02:41.513079	 deep:3
+http://blog.jobbole.com/114261/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	回归树的原理及其 Python 实现	2018-12-04 10:02:42.237360	 deep:3
+http://blog.jobbole.com/113819/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	直白介绍卷积神经网络（CNN）	2018-12-04 10:02:42.366118	 deep:3
+http://blog.jobbole.com/114194/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	深入学习 Redis（3）：主从复制	2018-12-04 10:02:42.565846	 deep:2
+http://blog.jobbole.com/108564/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	Apache Spark：大数据处理统一引擎	2018-12-04 10:02:42.694905	 deep:3
+http://blog.jobbole.com/114134/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	PacVim：一个学习 vim 命令的命令行游戏	2018-12-04 10:02:42.777164	 deep:2
+http://blog.jobbole.com/113691/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	如何实现一个基本的微信文章分类器	2018-12-04 10:02:43.055109	 deep:3
+http://blog.jobbole.com/114005/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	终于有人把云计算、大数据和人工智能讲明白了	2018-12-04 10:02:43.139189	 deep:3
+http://blog.jobbole.com/114499/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	程序员神器 StackOverflow 10 岁了，它长大后想成为什么？	2018-12-04 10:02:43.221282	 deep:3
+http://blog.jobbole.com/114382/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	深入学习 Redis（4）：哨兵	2018-12-04 10:02:43.916687	 deep:2
+http://blog.jobbole.com/113740/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	AI 从业者都会用到的 10 个深度学习方法	2018-12-04 10:02:43.983006	 deep:3
+http://blog.jobbole.com/110756/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	Apache Spark 内存管理详解	2018-12-04 10:02:44.306872	 deep:3
+http://blog.jobbole.com/114236/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	一个安卓程序媛的人生经验	2018-12-04 10:02:45.198857	 deep:3
+http://blog.jobbole.com/114270/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	Redis 架构演变与 Redis-cluster 群集读写方案	2018-12-04 10:02:45.493327	 deep:2
+http://blog.jobbole.com/114185/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	这两年在大数据行业中的工作总结	2018-12-04 10:02:45.566269	 deep:3
+http://blog.jobbole.com/113815/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	从技术转管理，我做了什么来拯救自己？	2018-12-04 10:02:45.636766	 deep:3
+http://blog.jobbole.com/114164/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	我作为开发者犯过的两次愚蠢的错误	2018-12-04 10:02:45.703522	 deep:3
+http://blog.jobbole.com/113954/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	是什么让初级工程师走投无路？	2018-12-04 10:02:45.786348	 deep:3
+http://blog.jobbole.com/114488/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	反对薪酬保密，一程序员公开了硅谷秘密	2018-12-04 10:02:46.361852	 deep:3
+http://blog.jobbole.com/111585/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	创业公司操蛋的面试过程	2018-12-04 10:02:46.858938	 deep:3
+http://blog.jobbole.com/114496/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	软件工程师生存指南：面试准备、工作经验和实用工具	2018-12-04 10:02:47.226863	 deep:3
+http://blog.jobbole.com/28729/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	杨杰：来硅谷工作	2018-12-04 10:02:47.294484	 deep:3
+http://blog.jobbole.com/113674/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	开源巨献：2017 年 Google 开源了这些超赞的项目	2018-12-04 10:02:47.562270	 deep:3
+http://blog.jobbole.com/98348/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	C#基础系列：Attribute特性使用	2018-12-04 10:02:48.405096	 deep:3
+http://blog.jobbole.com/113745/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	计算机如何感知大数据——聚类算法	2018-12-04 10:02:48.544944	 deep:3
+http://blog.jobbole.com/112148/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	面试软件工程师，这些准备工作你做了吗？	2018-12-04 10:02:48.617611	 deep:3
+http://blog.jobbole.com/77674/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	Android开发实践：使用Service还是Thread	2018-12-04 10:02:48.931385	 deep:3
+http://blog.jobbole.com/112007/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	开发团队面临的 3 大安全挑战	2018-12-04 10:02:49.274919	 deep:3
+http://blog.jobbole.com/114241/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	MySQL 事务隔离级别	2018-12-04 10:02:49.423372	 deep:3
+http://blog.jobbole.com/113917/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	线上账务系统余额并发更新问题记录	2018-12-04 10:02:49.682881	 deep:3
+http://blog.jobbole.com/110042/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	程序员如何提一个好问题？	2018-12-04 10:02:49.742162	 deep:3
+http://blog.jobbole.com/111738/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	用 C 语言写一个简单的 Unix Shell（1）	2018-12-04 10:02:50.330176	 deep:3
+http://blog.jobbole.com/114200/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	GitHub 的 MySQL 高可用性实践分享	2018-12-04 10:02:50.891867	 deep:3
+http://blog.jobbole.com/114445/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	Redis基础、高级特性与性能调优	2018-12-04 10:02:51.531147	 deep:3
+http://blog.jobbole.com/110929/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	谷歌大牛的 C 语言编程建议和技巧	2018-12-04 10:02:51.632995	 deep:3
+http://blog.jobbole.com/95341/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	这个功能很简单，要做多久？	2018-12-04 10:02:51.741841	 deep:3
+http://blog.jobbole.com/114442/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	通过信鸽来解释 HTTPS	2018-12-04 10:02:52.077475	 deep:3
+http://blog.jobbole.com/114482/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	SQL优化指南	2018-12-04 10:02:52.337882	 deep:3
+http://blog.jobbole.com/110148/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	通过这 9 本开源好书学习 C 语言	2018-12-04 10:02:52.504089	 deep:3
+http://blog.jobbole.com/114466/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	人人都能读懂的编译器原理	2018-12-04 10:02:52.967163	 deep:3
+http://blog.jobbole.com/114461/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	一文带你了解 Vim 的起源	2018-12-04 10:02:53.045268	 deep:3
+http://blog.jobbole.com/114372/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	图像主题色提取算法	2018-12-04 10:02:53.160159	 deep:3
+http://blog.jobbole.com/114283/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	目标跟踪算法分类	2018-12-04 10:02:53.485952	 deep:3
+http://blog.jobbole.com/113977/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	常用排序算法总结（2）	2018-12-04 10:02:53.988579	 deep:3
+http://blog.jobbole.com/114141/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	计算机专业太难不适合女生学？来看 N 多小姐姐的回应	2018-12-04 10:02:54.052218	 deep:3
+http://blog.jobbole.com/112739/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	刚收到了Facebook的Offer，我是这样为面试做准备的	2018-12-04 10:02:54.342111	 deep:3
+http://blog.jobbole.com/113568/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	最终一轮面试被 Google 刷掉，这是一种什么样的体验？	2018-12-04 10:02:54.407122	 deep:3
+http://blog.jobbole.com/114364/?utm_source=blog.jobbole.com&utm_medium=relatedPosts	走近北京后厂村程序员的真实生活：“拿命换钱”	2018-12-04 10:02:54.963601	 deep:3

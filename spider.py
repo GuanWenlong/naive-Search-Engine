@@ -1,9 +1,5 @@
 # _*_ coding: utf-8 _*_
 
-"""
-test.py by xianhu
-"""
-
 import spider
 import logging
 import datetime

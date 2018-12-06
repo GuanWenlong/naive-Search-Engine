@@ -68,7 +68,6 @@
 {% block scripts %}
     {{ super() }}
     <script src="{{ url_for('static', filename='js/pagination.js') }}"></script>
-
     <script type="text/javascript">
         var key_words = "{{ key_words }}";
         var totalnums ={{ total_nums }};
@@ -80,13 +79,8 @@
             display_msg: true,
             callback: pageselectCallback
         });
-
         function pageselectCallback(page_id, jq) {
             window.location.href = search_url + '?q=' + key_words + '&p=' + (page_id + 1)
         }
-
     </script>
-
-
-
 {% endblock %}
